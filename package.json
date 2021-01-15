@@ -1,0 +1,20 @@
+{
+  "name": "gulp-import-less",
+  "version": "0.9.0",
+  "main": "index.js",
+  "author": "滕磊 <admin@tides.cn>",
+  "license": "MIT",
+  "keywords": [
+    "gulp",
+    "less",
+    "glob",
+    "gulpplugin",
+    "gulp-plugin",
+    "gulp-import-less",
+    "gulp-less-glob"
+  ],
+  "dependencies": {
+    "glob": "^7.1.6",
+    "through2": "^4.0.2"
+  }
+}
